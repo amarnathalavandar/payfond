@@ -45,31 +45,4 @@ class DefaultFirebaseOptions {
         );
     }
   }
-
-  static const FirebaseOptions web = FirebaseOptions(
-    apiKey: 'AIzaSyDie3dux3Itl28fkNZYZGWtKntuH807drQ',
-    appId: '1:348873731861:web:7a40241f697bb53bc2831c',
-    messagingSenderId: '348873731861',
-    projectId: 'payfond-9052f',
-    authDomain: 'payfond-9052f.firebaseapp.com',
-    storageBucket: 'payfond-9052f.appspot.com',
-    measurementId: 'G-RZT1TB9QNY',
-  );
-
-  static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCSrySLEO9-aMCWA8uu_kM5iw192k1scGk',
-    appId: '1:348873731861:android:deec7026771fa6cac2831c',
-    messagingSenderId: '348873731861',
-    projectId: 'payfond-9052f',
-    storageBucket: 'payfond-9052f.appspot.com',
-  );
-
-  static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyDLR0-m-FRDxao1UJ5PV919VO6E1uu3LFw',
-    appId: '1:348873731861:ios:6894999138050130c2831c',
-    messagingSenderId: '348873731861',
-    projectId: 'payfond-9052f',
-    storageBucket: 'payfond-9052f.appspot.com',
-    iosBundleId: 'com.payfond.payfond',
-  );
 }
