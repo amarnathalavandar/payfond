@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348873731861",
+    "project_id": "payfond-9052f",
+    "storage_bucket": "payfond-9052f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348873731861:android:deec7026771fa6cac2831c",
+        "android_client_info": {
+          "package_name": "com.payfond.payfond"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCSrySLEO9-aMCWA8uu_kM5iw192k1scGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
